@@ -4,7 +4,7 @@ Autonomous Space Exploration demo project for the Junction Hackathon 2022.
 
 ## Requirements
 
-This project builds on top of JavaScript and Python. In order to make use of this project you should have a version of NodeJS and Python 3 installed on your machine.
+This project builds on top of JavaScript. In order to make use of this project you should have a version of NodeJS installed on your machine.
 
 Make sure you have yarn installed for NodeJS:
 
